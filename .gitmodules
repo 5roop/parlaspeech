@@ -1,0 +1,3 @@
+[submodule "TransformersSpeechAligner"]
+	path = TransformersSpeechAligner
+	url = https://github.com/danijel3/TransformersSpeechAligner.git
